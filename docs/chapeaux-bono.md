@@ -33,7 +33,7 @@ chapeau Noir, (3) la question ouverte la plus importante pour la suite.
 FORMAT DE SORTIE STRICT — Réponds uniquement dans ce format Markdown,
 sans introduction ni conclusion, sans balises ```.
 
-6 Chapeaux de Bono — [NOM DE VOTRE ÉQUIPE]
+6 Chapeaux de Bono — TeamKeurMassar
 HMW analysé
 [HMW]
 
