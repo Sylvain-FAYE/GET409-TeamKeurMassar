@@ -4,6 +4,7 @@
 | Sylvain FAYE | Master Prompt Engineer | @sylvain-faye |
 | Ramatoulaye Katy Baldé | Responsable Impact | @ramakaty |
 | El Hadj Falilou Fall| Dev UI (No-Code) | @elhadjfalilou |
+
 |---|---|---|
 
 ## Notre defi
