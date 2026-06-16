@@ -2,8 +2,7 @@
 ## Notre equipe
 | Aboubakrine FALL | Chef de Produit (PM) | @aboubakrine |
 | Sylvain FAYE | Master Prompt Engineer | @sylvain-faye |
-| Ramatoulaye Katy Baldé | Responsable Impact | @ramakaty |
-| El Hadj Falilou Fall| Dev UI (No-Code) | @elhadjfalilou |
+| Ramatoulaye Katy Baldé | Dev UI(No-Code) | @ramakaty |
 
 |---|---|---|
 
